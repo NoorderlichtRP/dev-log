@@ -1,7 +1,11 @@
-<center><h2>NOORDERLICHTRP DEV-LOG</h2></center>
+# Welkom op onze Dev-Log
+Hier ga je alles kunnen vinden over de groei en opbouw van NoorderlichtRP!
+
+##  :speech_balloon: - Noorderlicht begint met hun github
+
+
 
 Wij zijn begonnen met het creeëren van onze github repositories voor onze developers en staff team. <br>Dit vanwege dat wij zeer gestructureerd aan de slag kunnen gaan met github en zo ook sneller progressie gaan kunnen maken</br>
-</br></br>
 <details>
 <summary>Github voor NoorderlichtRP - Developers</summary>
 
@@ -17,36 +21,3 @@ De github bevat zo goed als alle scripts in repositories die op momenten zichtba
 ```
 
 </details>
-<details>
-<summary>Github voor NoorderlichtRP - Management</summary>
-
-### Github voor onze devs!
-
-
-   dsf
-   s
-   df
-   
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-<details>
-<summary>Github voor NoorderlichtRP - Staff / admins</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-
-
