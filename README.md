@@ -1,11 +1,17 @@
 # Welkom op onze Dev-Log
-Hier ga je alles kunnen vinden over de groei en opbouw van NoorderlichtRP!
+Hier ga je alles kunnen vinden over de groei en opbouw van NoorderlichtRP!<br>
+Regelmatig zal je merken dat bepaalde dingen in het log systeem niet in detail worden bespreken<br>
+Dit is vanwege dat iedereen toegang heeft om de dev-log te bekijken als ook onze spelers op de server. <br>
+Voor het roleplay te behouden zijn wij genoodzaakt om bepaalde informatie niet te verspreiden, dus ook onze scripts niet<br>
 
-##  :speech_balloon: - Noorderlicht begint met hun github
+<b>Lua, Javascript, HTML, CSS, MySQL via phpMyAdmin <b><br>
+
+
+##  :construction_worker: - Opbouw van Github
 
 
 
-Wij zijn begonnen met het creeëren van onze github repositories voor onze developers en staff team. <br>Dit vanwege dat wij zeer gestructureerd aan de slag kunnen gaan met github en zo ook sneller progressie gaan kunnen maken</br>
+Wij zijn begonnen met het creeëren van onze github repositories voor onze developers en dergelijke. <br>Dit vanwege dat wij zeer gestructureerd aan de slag kunnen gaan met github en zo ook sneller progressie gaan kunnen maken</br>
 <details>
 <summary>Github voor NoorderlichtRP - Developers</summary>
 
