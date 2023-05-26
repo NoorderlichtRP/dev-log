@@ -11,8 +11,9 @@ Voor het roleplay te behouden zijn wij genoodzaakt om bepaalde informatie niet t
 
 
 
-Wij zijn begonnen met het creeëren van onze github repositories voor onze developers en dergelijke.<br>
+Wij zijn begonnen met het creeëren van onze github repositories voor onze developers.<br>
 Hieronder hebben wij even lijst gecreeërd met informatie over wie van ons team github zal gebruiken met wat uitleg<br>
+Toekomst gericht gaan wij ook met het project systeem werken dat te vinden is in github voor ons magement en admin team. <br>
    
 <details>
 <summary>:computer: - Github voor het Development-team</summary>
@@ -22,8 +23,3 @@ Hiermee kunnen wij als team gestructureerd onze doelen, targets en deadlines ins
 Ook zo hebben wij een duidelijk overzicht wat geprioriteerd moet worden en hoe ver wij staan in het proces.</br>
 </details>
 
-<details>
-<summary>:briefcase: - Github voor het Management</summary>
-<br>
----
-</details>
